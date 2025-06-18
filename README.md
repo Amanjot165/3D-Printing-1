@@ -5,6 +5,7 @@ This is the description (https://3dprinting.com/what-is-3d-printing/)
 
 
 3D Printing have both  Advantages and Disadvantages : for example the parts can be manufactured within hours however, print chambers have very small size ,and larger parts need to be joined after printing.
+
 Link for pros and cons : (https://www.twi-global.com/technical-knowledge/faqs/what-is-3d-printing/pros-and-cons)
 
 
