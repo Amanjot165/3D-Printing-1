@@ -5,16 +5,18 @@ This is the description (https://3dprinting.com/what-is-3d-printing/)
 
 
 3D Printing have both  Advantages and Disadvantages : for example the parts can be manufactured within hours however, print chambers have very small size ,and larger parts need to be joined after printing.
- (https://www.twi-global.com/technical-knowledge/faqs/what-is-3d-printing/pros-and-cons)
+Link for pros and cons : (https://www.twi-global.com/technical-knowledge/faqs/what-is-3d-printing/pros-and-cons)
 
 
 Types of 3D printing : 
+
 
 * Polymerization
 * Binding
 * Sintering
 * Jetting
 * Powder bed fusion
+  
 
 
 Types of 3D printing: https://www.autodesk.com/solutions/3d-printing
